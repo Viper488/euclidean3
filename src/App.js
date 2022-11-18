@@ -11,6 +11,7 @@ function App() {
       "Problem\n " +
       "Szukamy x, y, z i (a, b, c)\n " +
       "(a, b, c) = a * x + b * y + c * z\n " +
+      "Podpowiedź\n " +
       "(a, b, c) = (a, (b, c))\n \n " +
       "Rozwiązanie\n " +
       "Krok 1 - Znajdźmy x0, y0 i (b, c)\n " +
