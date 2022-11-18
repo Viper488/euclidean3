@@ -98,7 +98,7 @@ function App() {
   return (
     <div className="App">
       <div>
-      <h4>Oblicz (a, b, c) z algorutmu Euklidesa i znajdź całkowite x, y, z, takie że</h4>
+      <h4>Oblicz (a, b, c) z algorytmu Euklidesa i znajdź całkowite x, y, z, takie że</h4>
       <h4>{a===""?"a":a}x + {b===""?"b":b}y + {c===""?"c":c}z = ({a===""?"a":a},{b===""?"b":b},{c===""?"c":c})</h4>
       <h4>Podaj a, b, c:</h4>
       <form onSubmit={handleSubmit} onReset={handleClear}>
